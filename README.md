@@ -3,19 +3,24 @@
 Anàlisi del Projecte:
 
 Target user profile:
+
 En aquest cas, era un projecte per mi, les necessitats que tenia eren, fer el projecte del meu currículum amb el html, css i figma. Tot això assolint els objectius proposats pel professor.
 
 Information architecture:
+
 Un dels passos més importants que he pres és l'organització lògica i coherent de la informació. He creat una estructura de navegació que és intuïtiva i fàcil d'entendre, assegurant que els usuaris puguin accedir al currículum obtinguin la meva informació que necessitin fàcilment i ràpidament.
 
 Visual design:
+
 En aquest apartat, he explorat els diferents aspectes visuals del projecte que podia fer. He seleccionat una paleta de colors que reflecteixi l'esperit del projecte, ja que és personal i representa el meu color preferit i he definit les tipografies i els estils de text fàcils d'entendre i bàsics.
 
 Conclusions:
+
 Durant aquesta projecte, he arribat a diverses conclusions . He trobat els punts que em costen més d'entendre del HTML i css, però realment tot m'ha servit per apendre i millorar, i al finalitzar el projecte he identificat possibles millores que es podrien fer del currículum. Aquesta projecte em servirà com a guia per a seguir creant projectes del estil i millorar-los amb el desenvolupament que he après.
 
 
 Link to the Figma project:
+
 https://www.figma.com/file/BNhHhHr13otSg2kPLLLTLH/Curriculum?type=design&node-id=0%3A1&mode=design&t=C0U37DdhoIEGFU2l-1
 
 
