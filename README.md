@@ -2,19 +2,21 @@
 
 Anàlisi del Projecte:
 
-En aquesta secció, he descrit l'anàlisi que he realitzat sobre el projecte, dividint-lo en tres categories clau: el perfil dels usuaris a qui està destinat, l'arquitectura de la informació i el disseny visual.
+Target user profile:
+En aquest cas, era un projecte per mi, les necessitats que tenia eren, fer el projecte del meu currículum amb el html, css i figma. Tot això assolint els objectius proposats pel professor.
 
-Perfil dels Usuaris Objectiu:
-En aquesta fase, he identificat i definit el perfil dels usuaris objectiu per al projecte. Això implica entendre les seves necessitats, interessos i expectatives respecte a la nostra solució. Aquesta comprensió profunda dels usuaris és crucial per assegurar que el projecte satisfaci les seves demandes i ofereixi una experiència significativa.
+Information architecture:
+Un dels passos més importants que he pres és l'organització lògica i coherent de la informació. He creat una estructura de navegació que és intuïtiva i fàcil d'entendre, assegurant que els usuaris puguin accedir al currículum obtinguin la meva informació que necessitin fàcilment i ràpidament.
 
-Arquitectura de la Informació:
-Un dels passos més importants que he pres és l'organització lògica i coherent de la informació. He creat una estructura de navegació que és intuïtiva i fàcil d'utilitzar, assegurant que els usuaris puguin accedir fàcilment a la informació que necessiten. Això inclou la disposició dels elements, la jerarquia de la informació i els vincles entre diferents parts del projecte.
-
-Disseny Visual:
-En aquesta etapa, he explorat els aspectes visuals del projecte. He seleccionat una paleta de colors que reflecteixi l'esperit del projecte i he definit les tipografies i els estils de text que farem servir. També he tingut en compte els elements visuals com imatges, icones i altres elements gràfics que milloraran l'atractiu visual del projecte i proporcionaran una experiència agradable als usuaris.
+Visual design:
+En aquest apartat, he explorat els diferents aspectes visuals del projecte que podia fer. He seleccionat una paleta de colors que reflecteixi l'esperit del projecte, ja que és personal i representa el meu color preferit i he definit les tipografies i els estils de text fàcils d'entendre i bàsics.
 
 Conclusions:
-Durant aquesta anàlisi del projecte, he arribat a diverses conclusions importants. He identificat les àrees clau en les quals cal posar l'èmfasi per proporcionar una experiència d'usuari optimitzada. També he destacat els punts forts del projecte i he identificat possibles àrees de millora. Aquesta anàlisi servirà com a guia mentre seguim endavant amb el desenvolupament del projecte, assegurant-nos que estiguem sempre centrats en les necessitats i expectatives dels nostres usuaris.
+Durant aquesta projecte, he arribat a diverses conclusions . He trobat els punts que em costen més d'entendre del HTML i css, però realment tot m'ha servit per apendre i millorar, i al finalitzar el projecte he identificat possibles millores que es podrien fer del currículum. Aquesta projecte em servirà com a guia per a seguir creant projectes del estil i millorar-los amb el desenvolupament que he après.
+
+
+Link to the Figma project:
+https://www.figma.com/file/BNhHhHr13otSg2kPLLLTLH/Curriculum?type=design&node-id=0%3A1&mode=design&t=C0U37DdhoIEGFU2l-1
 
 
 <!DOCTYPE html>
