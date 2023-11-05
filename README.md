@@ -23,6 +23,10 @@ Durant aquesta projecte, he arribat a diverses conclusions . He trobat els punts
 https://www.figma.com/file/BNhHhHr13otSg2kPLLLTLH/Curriculum?type=design&node-id=0%3A1&mode=design&t=C0U37DdhoIEGFU2l-1
 
 
+
+
+**CURRICULUM**
+
 <!DOCTYPE html>
 <html>
 
