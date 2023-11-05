@@ -1,0 +1,139 @@
+/* Fondo verde lima para el lado izquierdo */
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para el lado izquierdo (foto y contacto) */
+#left-side {
+    background-color: #045e2b;
+    float: left;
+    width: 25%; /* Ajusta el ancho del lado izquierdo según tus necesidades */
+    height: auto; /* Ajusta la altura para que abarque toda la página */
+    padding-right: 15px;
+    color: #FFFFFF;
+    text-align: center;
+    
+}
+
+#left-side img {
+    width: 125px; /* Ajusta el tamaño de tu foto */
+}
+
+#Nom{
+    font-size:55px;
+    color: white;
+    margin-left: 45px;
+    text-align: left;
+}
+
+
+/* Estilo para los datos de contacto en el lado izquierdo */
+#left-side section {
+    margin-top: 30px;
+    text-align: left;
+
+     
+}
+#left-side h2 {
+    color: white;
+    background-color: #02411e;
+    padding: 10px;
+    padding-right: 5px;
+    border: none;
+    margin: 0; /* Elimina el margen predeterminado de h2 */
+    width: 100%;
+    text-align: left;
+    text-indent: 35px;
+    font-size: 30px;
+}
+#left-side ul{
+    text-align: left;
+    margin-left: 10px;
+    text-decoration: none;
+    margin-top: 25px;
+}
+#left-side li{
+    text-align: left;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+/* Estilo para el lado derecho (resto del contenido) */
+#right-side {
+    margin-left: 30%; /* Alinea el lado derecho junto al lado izquierdo */
+    padding: 20px;
+    margin-right: 40px;
+}
+
+#right-side h2 {
+    color: #045e2b;
+    padding: 5px;
+    border-bottom: 1px solid #ddd; /* Agrega un borde para separar los elementos */
+    border-top: 1px solid #ddd;
+    font-size: 35px;
+}
+
+#right-side li {
+    width: auto; /* Ancho fijo para los elementos li */
+    margin-bottom: 30px; /* Espacio entre los elementos de la lista */
+}
+
+#llista-estudis {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+#llista-estudis li {
+    margin-bottom: 40px; /* Espacio entre los elementos de la lista */
+    overflow: hidden; /* Asegura que los elementos floten correctamente */
+}
+
+#any-estudis {
+    width: 100px; /* Ancho fijo para los años */
+    float: left;
+    margin-left: 50px;
+
+}
+
+#text-estudis {
+    margin-left: 50px; /* Margen izquierdo para separar el año del texto */
+    text-align: left;
+}
+#text-estudis i{
+    margin-left: 50px; /* Margen izquierdo para separar el año del texto */
+    text-align: left;
+}
+
+#llengues li{
+    font-size: 20px;
+}
+
+#software li{
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+}
+
+
+
+/* Pie de página */
+footer {
+    background-color: #045e2b;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
