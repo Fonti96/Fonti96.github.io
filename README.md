@@ -1,6 +1,5 @@
 # Fonti96.github.io
-
-**Anàlisi del Projecte:**
+**Project analysis**
 
 **Target user profile:**
 
