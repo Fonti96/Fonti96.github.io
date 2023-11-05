@@ -1,5 +1,22 @@
 # Fonti96.github.io
 
+Anàlisi del Projecte:
+
+En aquesta secció, he descrit l'anàlisi que he realitzat sobre el projecte, dividint-lo en tres categories clau: el perfil dels usuaris a qui està destinat, l'arquitectura de la informació i el disseny visual.
+
+Perfil dels Usuaris Objectiu:
+En aquesta fase, he identificat i definit el perfil dels usuaris objectiu per al projecte. Això implica entendre les seves necessitats, interessos i expectatives respecte a la nostra solució. Aquesta comprensió profunda dels usuaris és crucial per assegurar que el projecte satisfaci les seves demandes i ofereixi una experiència significativa.
+
+Arquitectura de la Informació:
+Un dels passos més importants que he pres és l'organització lògica i coherent de la informació. He creat una estructura de navegació que és intuïtiva i fàcil d'utilitzar, assegurant que els usuaris puguin accedir fàcilment a la informació que necessiten. Això inclou la disposició dels elements, la jerarquia de la informació i els vincles entre diferents parts del projecte.
+
+Disseny Visual:
+En aquesta etapa, he explorat els aspectes visuals del projecte. He seleccionat una paleta de colors que reflecteixi l'esperit del projecte i he definit les tipografies i els estils de text que farem servir. També he tingut en compte els elements visuals com imatges, icones i altres elements gràfics que milloraran l'atractiu visual del projecte i proporcionaran una experiència agradable als usuaris.
+
+Conclusions:
+Durant aquesta anàlisi del projecte, he arribat a diverses conclusions importants. He identificat les àrees clau en les quals cal posar l'èmfasi per proporcionar una experiència d'usuari optimitzada. També he destacat els punts forts del projecte i he identificat possibles àrees de millora. Aquesta anàlisi servirà com a guia mentre seguim endavant amb el desenvolupament del projecte, assegurant-nos que estiguem sempre centrats en les necessitats i expectatives dels nostres usuaris.
+
+
 <!DOCTYPE html>
 <html>
 
